@@ -23,8 +23,6 @@ Public Class frmLogin
                 pass = cmd.ExecuteScalar().ToString
             Catch ex As Exception
                 MsgBox("Такого аккаунта не существует", MsgBoxStyle.Critical, "")
-                k += 1
-                Exit Sub
             End Try
 
 
@@ -49,18 +47,20 @@ Public Class frmLogin
             Else
                 MsgBox("Неверный пароль или логин", MsgBoxStyle.Critical, "")
                 k += 1
-                Exit Sub
                 txtLogin.Clear()
                 txtPassword.Clear()
-                txtLogin.Focus()
-                If (k >= 3) Then
-                    MsgBox("Вы ввели неправильно 3 раза логин или пароль, пожалуйста, попробуйте позднее ", MsgBoxStyle.Critical, "")
-                    Me.tmrLogin.Enabled = True
-                    txtLogin.ReadOnly = True
-                    txtPassword.ReadOnly = True
-                End If
+                txtLogin.Focus() 
             End If
+            
             login(frmMain.lblRooms, frmMain.lblGallery, frmMain.lblPharmacy, frmMain.lblContacts, frmMain.lblBooking, frmMain.Label2, frmMain.Label1, frmMain.lblBookkeeping)
+        End If
+        If (k >= 3) Then
+            MsgBox("Вы ввели неправильно 3 раза логин или пароль, пожалуйста, попробуйте позднее ", MsgBoxStyle.Critical, "")
+            lblTimer.Text = "10"
+            tmrLogin.Enabled = True
+            txtLogin.ReadOnly = True
+            cmdLogin.Enabled = False
+            txtPassword.ReadOnly = True
         End If
     End Sub
 
@@ -86,13 +86,14 @@ Public Class frmLogin
     End Sub
 
     Private Sub tmrLogin_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles tmrLogin.Tick
-        lblTimer.Text = "10"
         lblTimer.Text = Val(lblTimer.Text) - 1
         If lblTimer.Text = "0" Then
-            lblTimer.Text = ""
-            tmrLogin.Enabled = False
+            tmrLogin.Stop()
             txtLogin.ReadOnly = False
             txtPassword.ReadOnly = False
+            tmrLogin.Enabled = False
+            lblTimer.Text = ""
+            cmdLogin.Enabled = True
             k = 0
         End If
     End Sub

@@ -123,6 +123,7 @@ Partial Class frmLogin
         '
         'tmrLogin
         '
+        Me.tmrLogin.Interval = 1000
         '
         'frmLogin
         '
