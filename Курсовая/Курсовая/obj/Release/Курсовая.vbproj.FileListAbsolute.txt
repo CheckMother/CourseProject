@@ -1,0 +1,6 @@
+F:\CourseProject\Курсовая\Курсовая\obj\Release\ResolveAssemblyReference.cache
+F:\CourseProject\Курсовая\Курсовая\obj\Release\Курсовая.frmGallery.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Release\Курсовая.frmMain.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Release\Курсовая.frmRooms.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Release\Курсовая.Resources.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Release\Курсовая.vbproj.GenerateResource.Cache

@@ -1,0 +1,296 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Курсовая
+</name>
+</assembly>
+<members>
+<member name="P:Курсовая.My.Resources.Resources.ResourceManager">
+	<summary>
+  Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+</summary>
+</member><member name="P:Курсовая.My.Resources.Resources.Culture">
+	<summary>
+  Перезаписывает свойство CurrentUICulture текущего потока для всех
+  обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+</summary>
+</member><member name="T:Курсовая.My.Resources.Resources">
+	<summary>
+  Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+</summary>
+</member><member name="T:Курсовая.BuyDataSet.BuyFeedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.BuyDataSet.BuyFeedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.BuyDataSet.BuyFeedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.BuyDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Курсовая.BuyDataSetTableAdapters.BuyFeedTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Курсовая.BuyDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Курсовая.BuyDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.BuyDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Курсовая.BuyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.BuyDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Курсовая.BuyDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Курсовая.BuyDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Курсовая.BuyDataSetTableAdapters.TableAdapterManager.UpdateAll(Курсовая.BuyDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Курсовая.BuyDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Курсовая.BuyDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Курсовая.BuyDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSet.AccountDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSet.AccountRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSet.AccountRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSetTableAdapters.AccountTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Курсовая.UserAccountDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Курсовая.UserAccountDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Курсовая.UserAccountDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager.UpdateAll(Курсовая.UserAccountDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Курсовая.UserAccountDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSet.Хозяева_и_питомцыDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSet.Хозяева_и_питомцыRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSet.Хозяева_и_питомцыRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSetTableAdapters.Хозяева_и_питомцыTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Курсовая.AnimalBDDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Курсовая.AnimalBDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Курсовая.AnimalBDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager.UpdateAll(Курсовая.AnimalBDDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Курсовая.AnimalBDDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ВодаDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ГазDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ЗПDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ПрибыльDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ЭлектричествоDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ВодаRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ГазRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ЗПRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ПрибыльRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ЭлектричествоRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ВодаRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ГазRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ЗПRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ПрибыльRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet.ЭлектричествоRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.ВодаTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.ГазTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.ЗПTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.ПрибыльTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.ЭлектричествоTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Курсовая.BookkeepingBDDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Курсовая.BookkeepingBDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Курсовая.BookkeepingBDDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager.UpdateAll(Курсовая.BookkeepingBDDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Курсовая.BookkeepingBDDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

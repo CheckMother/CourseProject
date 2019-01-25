@@ -1,0 +1,130 @@
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\Курсовая.frmMain.resources
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\Курсовая.Resources.resources
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\Курсовая.vbproj.GenerateResource.Cache
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\bin\Debug\Курсовая.xml
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\Курсовая.xml
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Влад\AppData\Local\Temporary Projects\Курсовая\obj\Debug\Курсовая.frmRooms.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.xml
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+F:\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+F:\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+F:\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.xml
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\ResolveAssemblyReference.cache
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmGallery.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmMain.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmRooms.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.Resources.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.vbproj.GenerateResource.Cache
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmContacts.resources
+F:\CourseProject\Курсовая\Курсовая\bin\Debug\UserAccount.mdb
+F:\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmLogin.resources
+F:\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmRegistration.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.xml
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\bin\Debug\UserAccount.mdb
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.xml
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmContacts.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmGallery.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmLogin.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmMain.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmRegistration.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmRooms.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.Resources.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.vbproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmBookkeeping.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmBooking.resources
+C:\Users\Влад\Desktop\CourseProject\Курсовая\Курсовая\bin\Debug\BookkeepingBD.mdb
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.xml
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmBooking.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmBookkeeping.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmContacts.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmGallery.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmLogin.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmMain.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmPharmacy.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmRegistration.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.frmRooms.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.Resources.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject\Курсовая\Курсовая\obj\Debug\Курсовая.vbproj.GenerateResource.Cache
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.xml
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\bin\Debug\BookkeepingBD.mdb
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\bin\Debug\UserAccount.mdb
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\bin\Debug\Курсовая.xml
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmBooking.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmBookkeeping.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmContacts.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmGallery.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmLogin.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmMain.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmPharmacy.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmRegistration.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.frmRooms.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.Resources.resources
+C:\Users\s0\Desktop\Олды тут\CourseProject без БД\Курсовая\Курсовая\obj\Debug\Курсовая.vbproj.GenerateResource.Cache
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.xml
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\bin\Debug\AnimalBD.mdb
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\bin\Debug\BookkeepingBD.mdb
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\bin\Debug\UserAccount.mdb
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.xml
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\ResolveAssemblyReference.cache
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmBooking.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmBookkeeping.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmContacts.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmGallery.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmLogin.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmMain.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmPharmacy.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmRegistration.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmRooms.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.Resources.resources
+F:\CourseProject\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.vbproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.xml
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\AnimalBD.mdb
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\BookkeepingBD.mdb
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\UserAccount.mdb
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Курсовая.xml
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmBooking.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmBookkeeping.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmContacts.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmGallery.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmLogin.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmMain.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmPharmacy.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmRegistration.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.frmRooms.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.Resources.resources
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\obj\Debug\Курсовая.vbproj.GenerateResource.Cache
+C:\Users\Влад\Desktop\CourseProjectWork\Курсовая\Курсовая\bin\Debug\Buy.mdb

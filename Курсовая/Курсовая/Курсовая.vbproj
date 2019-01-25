@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4EEED06E-2E7C-4506-B42B-F3EF4DB14609}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Курсовая.My.MyApplication</StartupObject>
+    <RootNamespace>Курсовая</RootNamespace>
+    <AssemblyName>Курсовая</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Курсовая.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Курсовая.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnimalBDDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AnimalBDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="BookkeepingBDDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BookkeepingBDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BuyDataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BuyDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="frmBooking.Designer.vb">
+      <DependentUpon>frmBooking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBookkeeping.Designer.vb">
+      <DependentUpon>frmBookkeeping.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmBookkeeping.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmContacts.Designer.vb">
+      <DependentUpon>frmContacts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmContacts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGallery.Designer.vb">
+      <DependentUpon>frmGallery.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGallery.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.vb">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPharmacy.Designer.vb">
+      <DependentUpon>frmPharmacy.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPharmacy.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegistration.Designer.vb">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistration.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRooms.Designer.vb">
+      <DependentUpon>frmRooms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRooms.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mdlBooking.vb" />
+    <Compile Include="mdlLogin.vb" />
+    <Compile Include="mdlStyle.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="UserAccountDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>UserAccountDataSet.xsd</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmBooking.resx">
+      <DependentUpon>frmBooking.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBookkeeping.resx">
+      <DependentUpon>frmBookkeeping.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmContacts.resx">
+      <DependentUpon>frmContacts.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGallery.resx">
+      <DependentUpon>frmGallery.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPharmacy.resx">
+      <DependentUpon>frmPharmacy.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegistration.resx">
+      <DependentUpon>frmRegistration.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRooms.resx">
+      <DependentUpon>frmRooms.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1336.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\layout_set_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Guest_theapplication_2906.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Standard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VIP.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1254.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1426.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1677.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1684.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1355.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1484.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1380.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_M__1376.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="AnimalBDDataSet.xsc">
+      <DependentUpon>AnimalBDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AnimalBDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AnimalBDDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AnimalBDDataSet.xss">
+      <DependentUpon>AnimalBDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="BookkeepingBDDataSet.xsc">
+      <DependentUpon>BookkeepingBDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BookkeepingBDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BookkeepingBDDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BookkeepingBDDataSet.xss">
+      <DependentUpon>BookkeepingBDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\vk.png" />
+    <None Include="UserAccountDataSet.xsc">
+      <DependentUpon>UserAccountDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="UserAccountDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>UserAccountDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="UserAccountDataSet.xss">
+      <DependentUpon>UserAccountDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AnimalBD.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="BookkeepingBD.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="BuyDataSet1.xsc">
+      <DependentUpon>BuyDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="BuyDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BuyDataSet1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BuyDataSet1.xss">
+      <DependentUpon>BuyDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Account.png" />
+    <Content Include="Buy.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="UserAccount.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Профиль клиента .NET Framework</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
